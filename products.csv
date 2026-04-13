@@ -1,0 +1,11 @@
+product_id,category,cost_price,selling_price
+PROD001,Cement,320,400
+PROD002,Steel,45000,52000
+PROD003,Aggregates,1200,1500
+PROD004,Bricks,6,8
+PROD005,Tiles,250,320
+PROD006,Paint,180,240
+PROD007,PVC Pipes,90,130
+PROD008,Glass,500,650
+PROD009,Wood,2200,2800
+PROD010,Concrete Mix,3500,4200
